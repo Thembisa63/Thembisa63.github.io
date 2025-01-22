@@ -1,3 +1,6 @@
+# Project 1
+
+
 # Sports Data Analytics Project #
 
 ## Table of Contents 
@@ -56,6 +59,54 @@ Strikers with a higher conversion are more likely to be classified as best strik
 
 - Teams should focus on improving shot accuracy and key pass statistics to enhance striker performance.
 - More focus should be given to strikers who can efficiently convert opportunities into goals.
+
+# Project 2
+
+## Exploratory Data Analysis On Retail Sales
+
+### Project Overview 
+
+This project focuses on performing an Exploratory Data Analysis (EDA) of retail sales data using Python. The primary objective was to analyze the dataset to uncover key insights about sales trends, customer behavior, and product performance, and to provide data-driven recommendations for improving retail operations.
+
+### Data Sources
+
+Retail sales dataset: The primary dataset used for this analysis is the retail_sales_dataset.csv containing detailed information about about the sales.
+
+## Tools Used
+
+- Programming Language: Python
+- Development Environment: Jupyter Notebook
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
+
+## Data Cleaning
+
+- Checking for duplicates
+- Checking for missing values
+- Checking for correct datatypes in each column
+
+
+## Findings
+
+Top Products: Certain products, like electronics consistently outperformed others in terms of revenue and volume.
+Customer Behavior: High purchase rates among certain customer segments(those who earn more) were observed suggesting loyalty opportunities
+
+### Recommendations 
+
+- Focus marketing campaigns on peak sales periods to maximize revenue.
+- Promote top-performing products like electronics and explore bundling strategies with complementary items.
+- Implement a loyalty program to reward high-value customers and encourage repeat purchases.
+
+# Project 3
+
+# Customer Segmentation Analysis
+
+# Project Overview 
+
+This project involves analyzing customer data to identify distinct customer groups using K-Means Clustering. The goal was to leverage segmentation insights to drive targeted marketing strategies and improve customer experience.
+
+### Data Sources
+
+
 
 
 
