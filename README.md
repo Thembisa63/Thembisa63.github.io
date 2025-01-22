@@ -5,13 +5,10 @@
 
 ## Table of Contents 
 
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools](#tools)
-- [Data Cleaning](#data-cleaning)
-- [Data Analysis](#data-analysis)
-- [Findings](#findings)
-- [Recommendations](#recommendations)
+- [Project 1](#project-1)
+- [Project 2](#project-2)
+- [Project 3](#project-3)
+  
 
 
 ### Project Overview ###
@@ -106,10 +103,7 @@ This project involves analyzing customer data to identify distinct customer grou
 
 ### Data Sources
 
-
-
-
-
+ifood df: The primary dataset used for this analysis is the ifood_df.csv
 
 
 ### Tools Used
