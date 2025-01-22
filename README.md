@@ -100,7 +100,7 @@ Customer Behavior: High purchase rates among certain customer segments(those who
 
 # Customer Segmentation Analysis
 
-# Project Overview 
+#### Project Overview 
 
 This project involves analyzing customer data to identify distinct customer groups using K-Means Clustering. The goal was to leverage segmentation insights to drive targeted marketing strategies and improve customer experience.
 
@@ -111,6 +111,23 @@ This project involves analyzing customer data to identify distinct customer grou
 
 
 
+
+### Tools Used
+
+- Programming Language: Python
+- Development Environment: Jupyter Notebook
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+
+### Findings
+
+Customer Groups: Identified distinct clusters, such as high-value customers, frequent shoppers, and low-engagement customers.
+Spending Patterns: Certain clusters showed a higher average spend and transaction frequency, indicating strong profitability potential.
+
+### Recommendations 
+
+- Develop personalized marketing campaigns tailored to each customer segment.
+- Offer exclusive promotions and rewards for high-value customers to enhance loyalty.
 
 
 
